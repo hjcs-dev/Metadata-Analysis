@@ -1,9 +1,7 @@
 # Metadata Extractor Tool
 
 **Metadata Extractor Tool** is a Python utility designed to extract and analyze metadata from image and PDF files. It supports extracting EXIF data from images and metadata from PDF documents.
-
-![Metadata Extraction](https://via.placeholder.com/800x400?text=Metadata+Extraction+Tool+Screenshot)  
-*Screenshot of Metadata Extraction Tool in action*
+ 
 
 ## Features
 
@@ -26,4 +24,9 @@ To install the Metadata Extractor Tool on your local machine, follow these steps
 
    ```sh
    git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-   cd REPO_NAME
+   cd Metadata-Analysis
+
+   **Run the code**
+   ```sh
+   python main.py
+   
