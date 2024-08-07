@@ -25,7 +25,7 @@ To install the Metadata Extractor Tool on your local machine, follow these steps
    ```sh
    git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
    cd Metadata-Analysis
-   ```sh
+   ``
    
    **Run the code**
    ```sh
