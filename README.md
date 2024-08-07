@@ -30,5 +30,5 @@ To install the Metadata Extractor Tool on your local machine, follow these steps
    **Run the code**
    ```sh
    python main.py
-   ```sh
+   ```
    
