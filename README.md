@@ -23,8 +23,12 @@ To install the Metadata Extractor Tool on your local machine, follow these steps
    Clone the repository from GitHub using `git`. Open your terminal or command prompt and run:
 
    ```sh
-   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+   git clone https://github.com/hjcs-dev/Metadata-Analysis.git
    cd Metadata-Analysis
+   ```
+   **Install Requirements**
+   ```sh
+   pip install -r requirements.txt
    ```
    
    **Run the code**
